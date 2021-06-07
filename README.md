@@ -1,5 +1,7 @@
 # react-rails-app_client
 
+dfadsfasd
+
 ## 概要
 
 api を使ったアプリを作れる最小構成のボイラープレートです。
